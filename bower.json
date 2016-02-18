@@ -1,0 +1,24 @@
+{
+  "name": "ol3",
+  "description": "Open layers 3 library.",
+  "main": [
+    "ol.js",
+    "ol.css"
+  ],
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "authors": [
+    "Stojce Nakov"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
